@@ -10,7 +10,7 @@ All three permit to validate the Bloc 3 of "Développeur & Concepteur en Science
 
 Email : hicham.mrani@outlook.fr
 
-Vidyard link : [#]()
+Vidyard link : https://share.vidyard.com/watch/AHVnkPxYphSD9ZKY3wCAke
 
 ## Getting started
 
